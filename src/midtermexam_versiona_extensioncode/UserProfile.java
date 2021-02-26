@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *  Sheridan College, Trafalgar Campus
+ * Name/Student no.: Jaime Tavares, 991512643
+ * Program: Information Systems Engineering
  */
 package midtermexam_versiona_extensioncode;
 
@@ -12,6 +12,7 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ * @author tavares, 2021
  */
 public class UserProfile 
 {
